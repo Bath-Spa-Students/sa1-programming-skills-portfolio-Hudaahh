@@ -1,4 +1,4 @@
-# Exercise no 2
+# Exercise no 2.
 # Declare a variable and initialize it with the integer value 8.
 Num = 8 
 # Declare a second variable and initialize it with the integer value 10.
