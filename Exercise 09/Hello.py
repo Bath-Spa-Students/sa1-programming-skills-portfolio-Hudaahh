@@ -1,8 +1,8 @@
 def hello():
-    print("Hello")  # This line outputs "Hello" to the console
+    print("Hello")  # This line results "Hello" to the console
 
 def main():
-    hello()  # The line contacts the hello() function
+    hello()  # This line connects  the hello() function
 
 if __name__ == "__main__":
-    main()  # This appeals the main() function when the script is run
+    main()  # This propose  the main() function while the script is runing
